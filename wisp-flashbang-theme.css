@@ -1,0 +1,192 @@
+.header-icon {
+	display: none !important;
+}
+
+@media only screen and (max-width:600px) {
+    img[alt="Game Host Bros"] {
+        width: auto;
+        margin-left: 0
+    }
+}
+
+.btn {
+    background-color: #4F46E5 !important;
+	border-radius: 0px !important;
+	text-transform: uppercase !important;
+	font-size: 1rem !important
+}
+
+.btn.btn-primary {
+    background-color: #2463eb;
+    color: #fff !important
+}
+
+.btn.btn-secondary {
+    background-color: #163ca6;
+    color: #fff !important
+}
+
+.input {
+    background-color: #4F46E5 !important;
+	border-radius: 0px !important;
+    color: #fff !important
+}
+
+.multiselect {
+    background-color: #4F46E5 !important;
+    color: #fff !important;
+	border-radius: 0px !important
+}
+
+.multiselect-option {
+    background-color: #EBECF0 !important;
+    color: #1B1D24 !important
+}
+
+.multiselect-option.is-pointed {
+	background: #4F46E5 !important
+}
+
+.nav-primary {
+    background-color: #F7F7F9 !important;
+}
+
+.nav-primary section div {
+    background-color: #F7F7F9 !important;
+}
+
+body {
+    background-color: #EBECF0 !important
+}
+
+.hover\:bg-primary-500:hover {
+    background-color: #FFFFFF !important
+}
+
+.text-accent-500 {
+	color: #4F46E5 !important
+}
+
+.bg-primary-900 {
+    background-color: #F7F7F9 !important
+}
+
+.bg-primary-800 {
+    background-color: #FFFFFF !important
+}
+
+.bg-primary-600 {
+    background-color: #4F46E5 !important
+}
+
+.bg-primary-500 {
+    background-color: #FFFFFF !important
+}
+
+.bg-primary-300 {
+    background-color: #FFFFFF !important
+}
+
+.bg-primary-450 {
+    background-color: #FFFFFF !important
+}
+
+.bg-primary-400 {
+    background-color: #FFFFFF !important
+}
+
+.odd\:bg-primary-500:nth-child(odd) {
+    background-color: #4F46E5 !important
+}
+
+.even\:bg-primary-300:nth-child(even) {
+    background-color: #FFFFFF !important
+}
+
+.border-primary-400 {
+    border-color: #4F46E5 !important
+}
+
+.border-primary-500 {
+    border-color: #4F46E5 !important
+}
+
+.gradient {
+    background: #FFFFFF !important
+}
+
+.gradient::before {
+    background: #FFFFFF !important
+}
+
+.gradient::after {
+    background: #FFFFFF !important
+}
+
+.nav-secondary[data-v-be420486] {
+    background: #FFFFFF !important
+}
+
+.server {
+	border-radius: 0px !important
+}
+
+.text-white {
+	color: #1B1D24 !important
+}
+
+.text-base {
+	color: #1B1D24 !important
+}
+
+.router-link {
+	color: #1B1D24 !important
+}
+
+.text-lg {
+	color: #1B1D24 !important
+}
+
+.text-white\/50 {
+	color: #4F46E5 !important
+}
+
+.text-white\/75 {
+	color: #4F46E5 !important
+}
+
+.breadcrumb {
+	color: #1B1D24 !important
+}
+
+.border {
+	border-width: 0px !important
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #1B1D24 !important
+}
+
+.break-words {
+	color: #1B1D24 !important
+}
+
+.py-3 {
+	color: #1B1D24 !important
+}
+
+.px-4 {
+	color: #1B1D24 !important
+}
+
+.p-4 {
+	color: #1B1D24 !important
+}
+
+.py-2 {
+	color: #1B1D24 !important
+}
+
+.alert {
+	border-radius: 0px !important
+}
