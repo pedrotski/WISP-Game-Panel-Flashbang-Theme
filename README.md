@@ -1,5 +1,5 @@
 # WISP-Game-Panel-Flashbang-Theme
-A light mode CSS theme for the WISP game panel. This is a beta theme and there may be some bugs. 
+A light mode CSS theme for the WISP game panel. This was beta theme we were going to use for [Game Host Bros](https://www.gamehostbros.com/), but never kept it so there may be some bugs. 
 
 To change the accent color of the theme, find and replace the #4F46E5 color. 
 
